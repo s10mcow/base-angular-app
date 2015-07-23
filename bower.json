@@ -1,0 +1,16 @@
+{
+  "name": "APP-NAME",
+  "version": "0.0.0",
+  "authors": [
+    "Sten Muchow <sten.muchow@gmail.com>"
+  ],
+  "description": "It's an angular thing",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
